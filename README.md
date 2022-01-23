@@ -1,4 +1,4 @@
-[![Social banner for jh3y](https://github.com/ECecillo/ECecillo/raw/master/assets/banner.svg)](https://ececillo.com)
+[![Social banner for ECecillo](https://github.com/ECecillo/ECecillo/raw/master/assets/banner.svg)](https://ececillo.com)
 <h1 align='center'> Salut! :wave:</h1>
 <p align='center'>
   I'm a Front-End Developer, passionate about new technologies and building new Applications since I'm a teenager. <br /> 
