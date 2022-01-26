@@ -5,6 +5,6 @@
   I built some little projects alone or with a team such as PinterestLike, a questionary using an API and more recently my own Portfolio using React and Next.
   Checkout my repos for more ;).
 </p>
-<p align='center'> You can reach me on <a href="https://twitter.com/jh3yy">Twitter</a> or directly by mail <a href="enzo.cecillon@ececillo.com">Here</a>.</p>
+<p align='center'> You can reach me on <a href="https://twitter.com/ececilllo">Twitter</a> or by Linkedin <a href="https://www.linkedin.com/ececillo/">Here</a>.</p>
 
 <h1 align='center'><i>Stay awesome! :muscle:</i></h1>
