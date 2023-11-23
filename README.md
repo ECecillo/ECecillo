@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/ECecillo/ECecillo/blob/main/devcard.svg" width="400" alt="Enzo CECILLON's Dev Card"/></a>
+<a href="https://app.daily.dev/ececillo"><img src="https://github.com/ECecillo/ECecillo/blob/main/devcard.svg" width="400" alt="Enzo CECILLON's Dev Card"/></a>
 
 <h1 align='center'> Salut! :wave:</h1>
 <p align='center'>
