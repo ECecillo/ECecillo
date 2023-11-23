@@ -1,4 +1,5 @@
-[![Social banner for ECecillo](https://github.com/ECecillo/ECecillo/blob/main/assets/Banner.png)](https://ececillo.com)
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/ECecillo/ECecillo/blob/main/devcard.svg" width="400" alt="Enzo CECILLON's Dev Card"/></a>
+
 <h1 align='center'> Salut! :wave:</h1>
 <p align='center'>
   I'm a Full-stack Developer, passionate about new technologies and building new Applications since I'm a teenager. <br /> 
