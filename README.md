@@ -32,6 +32,9 @@
 </details>
 
 | <a href="https://github.com/ececillo/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ececillo&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/ececillo/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ececillo&show_icons=true&locale=en&layout=compact" alt="ececillo" /></a> |
-| ------------- | ------------- |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <a href="https://app.daily.dev/ececillo"><img src="https://github.com/ECecillo/ECecillo/blob/main/devcard.svg" width="400" alt="Enzo CECILLON's Dev Card"/></a>
