@@ -37,6 +37,15 @@
 📊 &nbsp;**This week I spent my time on**
 
 <!--START_SECTION:waka-->
+
+```txt
+TypeScript   7 hrs 20 mins   ████████████████▓░░░░░░░░   67.16 %
+Python       3 hrs 4 mins    ███████░░░░░░░░░░░░░░░░░░   28.18 %
+Other        20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
+Markdown     4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
+SQL          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+```
+
 <!--END_SECTION:waka-->
 
 <a href="https://app.daily.dev/ececillo"><img src="https://github.com/ECecillo/ECecillo/blob/main/devcard.svg" width="400" alt="Enzo CECILLON's Dev Card"/></a>
