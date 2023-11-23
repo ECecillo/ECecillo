@@ -10,3 +10,5 @@
 <p align='center'> You can reach me on <a href="https://twitter.com/ececillo1">Twitter</a> or by Linkedin <a href="https://www.linkedin.com/ececillo/">Here</a>.</p>
 
 <h1 align='center'><i>Stay awesome! :muscle:</i></h1>
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
