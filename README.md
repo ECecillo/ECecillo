@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/ececillo" class="display: flex;"><img src="https://github.com/ECecillo/ECecillo/blob/main/devcard.svg" width="400" alt="Enzo CECILLON's Dev Card"/></a>
+<a href="https://app.daily.dev/ececillo"><img src="https://github.com/ECecillo/ECecillo/blob/main/devcard.svg" width="400" alt="Enzo CECILLON's Dev Card"/></a>
 
 <h1 align='center'> Salut! :wave:</h1>
 <p align='center'>
@@ -10,3 +10,5 @@
 <p align='center'> You can reach me on <a href="https://twitter.com/ececillo1">Twitter</a> or by Linkedin <a href="https://www.linkedin.com/ececillo/">Here</a>.</p>
 
 <h1 align='center'><i>Stay awesome! :muscle:</i></h1>
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
