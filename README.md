@@ -15,6 +15,8 @@
 📕 &nbsp;**Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [🏕️ Traveling to the realm of Audio processing and Encoding - Summary](https://dev.to/ececillo/traveling-to-the-realm-of-audio-processing-and-encoding-summary-4a33)
+- [Understanding how analog signal is captured](https://dev.to/ececillo/understanding-how-analog-signal-is-captured-2edk)
 <!-- BLOG-POST-LIST:END -->
 
 🔗 &nbsp;**Connect with me**
