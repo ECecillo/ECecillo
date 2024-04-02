@@ -15,6 +15,7 @@
 📕 &nbsp;**Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [Workshop ⚒️ - Create sound with sin&lpar;x&rpar; 🎧](https://dev.to/ececillo/workshop-create-sound-with-sinx-1ccf)
 - [🏕️ Traveling to the realm of Audio processing and Encoding - Summary](https://dev.to/ececillo/traveling-to-the-realm-of-audio-processing-and-encoding-summary-4a33)
 - [Understanding how analog signal is captured](https://dev.to/ececillo/understanding-how-analog-signal-is-captured-2edk)
 <!-- BLOG-POST-LIST:END -->
