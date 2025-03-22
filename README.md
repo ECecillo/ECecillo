@@ -1,16 +1,16 @@
 <h1 align="center">Salut! 👋, moi c'est Enzo</h1>
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ececillo" alt="ececillo" /></a> </p> -->
 
-- I'm a Full-stack Developer 👨‍💻, passionate about new technologies and building new Applications since I'm a teenager.
+- I'm a full-time Junior Backend Developer at [Batch](https://batch.com/fr) 👨‍💻, passionate about new technologies and building new Applications since I'm a teenager.
 
-- I built some projects alone or with a team 🏉 such as a Geolocalisation Game, Music app, and more recently a large-scale web application for the company [Kestio](https://www.kestio.com/).
+- I built some projects alone or with a team 🏉 such as a Geolocalisation Game, Music app, Distributed Web Application and more recently a large-scale web application for the company [Kestio](https://www.kestio.com/).
 
-- 🚀 Right now I am completing my master's degree at [University of Lyon1](https://www.univ-lyon1.fr/) and trying to learn more about video/audio 🎧 processing.
+- I completed a master's degree in Web Technology and Network Communication 🛜 at [University of Lyon1](https://www.univ-lyon1.fr/) 📚.
 
 - 📝 I regularly write articles on [https://dev.to/ececillo](https://dev.to/ececillo)
-- 💬 Ask me about **Typescript, Prisma and the weather 💭**
+- 💬 Ask me about **Go, Typescript, Prisma and the weather 💭**
 
-- 📫 How to reach me **enzo.cecillon@gmail.com**
+- 📫 How to reach me ? **enzo.cecillon@gmail.com**
 
 📕 &nbsp;**Latest Blog Posts**
 
@@ -50,5 +50,3 @@ JSON              3 mins          ▒░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-
-<a href="https://app.daily.dev/ececillo"><img src="https://github.com/ECecillo/ECecillo/blob/main/devcard.svg" width="400" alt="Enzo CECILLON's Dev Card"/></a>
