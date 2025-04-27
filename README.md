@@ -39,9 +39,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Go                7 hrs 32 mins   ████████████████████████▒   97.24 %
-Text              9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
-Protocol Buffer   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
+Go                7 hrs 32 mins   ████████████████████████▓   99.31 %
+Protocol Buffer   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
 ```
 
 <!--END_SECTION:waka-->
