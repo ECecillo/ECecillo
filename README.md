@@ -39,8 +39,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Go                2 hrs 49 mins   ████████████████████████▓   98.18 %
-Protocol Buffer   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
