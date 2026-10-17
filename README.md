@@ -4,8 +4,8 @@ Backend software engineer, mostly in **Go**. From 2024 to 2026 I worked at
 [Batch](https://batch.com) on the messaging platform: the services that route
 and deliver push, email and SMS at scale. Before that I spent two years
 (2022–2024) as an apprentice building a large-scale web application at
-[Kestio](https://www.kestio.com/). I hold a master's degree in Web Technology
-and Network Communication from the [University of Lyon 1](https://www.univ-lyon1.fr/).
+[Kestio](https://www.kestio.com/). I hold a master's degree in Web & Information Technologies
+from the [University of Lyon 1](https://www.univ-lyon1.fr/).
 
 ### 🔭 Featured projects
 
